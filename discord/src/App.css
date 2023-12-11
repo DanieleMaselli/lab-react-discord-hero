@@ -1,0 +1,54 @@
+nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.logo{
+  display: flex;
+  width: 10%;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  padding: 20px;
+  font-weight: 900;
+  font-size: 5rem;
+  line-height: 1;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 1.3rem;
+  width: 800px;
+  padding: 20px;
+}
+
+button  {
+  display: flex;
+  padding: 18px;
+  font-size: 1.3rem;
+  border-radius: 30px;
+  font-weight: 500;
+  border: none;
+  
+}
+
+.button1{
+  background-color: white;
+  color: black;
+ 
+}
+
+.button2{
+  background-color: black;
+  color: white;
+  
+}
+
+.splash{
+  display: flex;
+  justify-content: space-between;
+}
